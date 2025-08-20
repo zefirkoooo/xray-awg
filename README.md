@@ -23,7 +23,7 @@ Xray VLESS + REALITY 443
 
 # Установка
 ```bash
-git clone https://github.com/username/xray-reality-manager.git
+git clone https://github.com/zefirkoooo/xray-awg.git
 cd xray-reality-manager
 chmod +x reality-manager.sh
 ./reality-manager.sh install
